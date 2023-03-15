@@ -1,0 +1,1258 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: assets/data/game/players_old.dat
+SHA1-Digest: Z+PBgo0WfH0EGSZV1VgrVtPnvT4=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_disabled_focus_dark.9.p
+ ng
+SHA1-Digest: Y8kNejuCEOueURKFKNzlmzl8VkI=
+
+Name: assets/data/audio/music7.m4a
+SHA1-Digest: qyG4TY4Ml1QgB+bRTnI4oaGFBPg=
+
+Name: assets/data/game/tournaments/tourn1.xml
+SHA1-Digest: PsUKR3GPRuAcU9BNTLYPyg82m2U=
+
+Name: assets/data/game/captains.dat
+SHA1-Digest: G6Cr5rsMiGzc2vdiayaCYNiNkvY=
+
+Name: res/drawable-mdpi/ic_plusone_tall_off_client.png
+SHA1-Digest: 3ocjamXiDDzZQ9Er9Iv+AG/CvIc=
+
+Name: assets/data/fe/stadiums/fe_madrida.png
+SHA1-Digest: k+3alvRampISEgs3K76bJT2IAZo=
+
+Name: res/drawable-mdpi/messenger_button_send_round_shadow.png
+SHA1-Digest: 1629PLaxhnDGY/iTKNeTXK/jRho=
+
+Name: assets/data/fe/loading/intro_news.png
+SHA1-Digest: oWbA2diY+vyTmTo0y7IrlvcqxIw=
+
+Name: res/drawable-hdpi/com_facebook_tooltip_blue_topnub.png
+SHA1-Digest: 5SQuqZIQRsYoN4TBMlAnsPgKzLU=
+
+Name: res/drawable/common_signin_btn_icon_light.xml
+SHA1-Digest: gYnLUfTrSuheyEDUSCM94KX8n7U=
+
+Name: assets/data/text/shirtnumber_0.fnt
+SHA1-Digest: 52FzlD5c5BBxWNri3G71JNV3uPA=
+
+Name: res/drawable-mdpi/messenger_bubble_small_blue.png
+SHA1-Digest: TIE/CeWTQLlND8lzFFOynfizqLI=
+
+Name: assets/data/fe/ui/arrow_right.png
+SHA1-Digest: xCXKRSsRbfC66lSwPLleCgjVP24=
+
+Name: assets/data/fe/kitselect/kittemplate_mask_dsplit.png
+SHA1-Digest: H31kSSF/BCsutmTf8LS1t09k4bw=
+
+Name: assets/data/fe/trophies/trophy_japanesecup.png
+SHA1-Digest: y0EWD6ESDkOOo2o5niV1dEzTn64=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_light.
+ 9.png
+SHA1-Digest: SXOyej7IXnI0/smJ5mymTBXKSQY=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: CuM9QPAcPSkb+sHZA73df4q9/Nk=
+
+Name: res/layout/messenger_button_send_blue_round.xml
+SHA1-Digest: sm6X0T5LmBTqnsWIEgsvfvz1J20=
+
+Name: assets/data/fe/kitselect/kittemplate_mask_quarts.png
+SHA1-Digest: sNqZR3T90FITz2gVq0vXuk4obW8=
+
+Name: res/drawable-hdpi/messenger_bubble_large_white.png
+SHA1-Digest: 4yGvGdjlMJ4TZ+MOpB2oz1HN0Ag=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: hFHBrLq+vmS1wIf+GPFeF44ZKoM=
+
+Name: assets/data/fe/trophies/trophy_europeancup.png
+SHA1-Digest: KFEfFnOzfQDTLkvmkxYIGiL1F6g=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: u55QGnsgneT2NmeGeumwleQa6f4=
+
+Name: res/drawable-mdpi/com_facebook_tooltip_blue_topnub.png
+SHA1-Digest: rxKAStLl/8uIoZskTt6N9AMuG+I=
+
+Name: assets/data/fe/teammanagement/lineup.atlas
+SHA1-Digest: srS+ogc1Liw1AUUnY+hZXVz367I=
+
+Name: assets/data/hud/replay/exported_442b8330_00.tga
+SHA1-Digest: KG2yh0nAVAQwBcHqMlUW58tCTK0=
+
+Name: res/drawable-xhdpi/com_facebook_button_like_icon_selected.png
+SHA1-Digest: 9vrWnp1DKsrgj6R4IGYpQU4Q6zQ=
+
+Name: resources.arsc
+SHA1-Digest: KKjYhKBiL7D6nekdeeQOuxRuwHE=
+
+Name: assets/data/fe/feats/fe_feat_silver.png
+SHA1-Digest: k71jCjyqflxKuRcjslJg5YxC6mA=
+
+Name: assets/data/game/tournaments/tourn8.xml
+SHA1-Digest: gMW4f9ntbhSCpP5LIC8nzDuV/Gk=
+
+Name: res/drawable-mdpi/com_facebook_tooltip_black_xout.png
+SHA1-Digest: +NOQmfBahK9wgyl14UEHXrBM1lQ=
+
+Name: res/color/common_signin_btn_text_light.xml
+SHA1-Digest: 3pihmzJmX8kp0T+s8KQpvXa9eAQ=
+
+Name: assets/data/fe/kitselect/kittemplate_mask_stripes.png
+SHA1-Digest: gYdPk3po6KCQI0EOWBDn00U20dk=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_disabled_light.9.png
+SHA1-Digest: 02LmsKBdlW1KM3T8AECzhzSpF7s=
+
+Name: assets/data/fe/dreamteam/edit kit/editkit.atlas
+SHA1-Digest: vPWJWtDq5s+4I5T9wZqtxca9+S0=
+
+Name: res/drawable-xhdpi/ic_plusone_standard_off_client.png
+SHA1-Digest: srU1La0aKxKcB1CLvKiSYa09NHU=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_disabled_focus_light.9.
+ png
+SHA1-Digest: Y8kNejuCEOueURKFKNzlmzl8VkI=
+
+Name: assets/data/fe/kitselect/kittemplate_mask_sleeves.png
+SHA1-Digest: zFt7KugG1uXTciBjq0BceN5Fc0A=
+
+Name: assets/data/fe/stadiums/fe_barcelona.png
+SHA1-Digest: +fjefBKwqZiOUQOb1n2WKtIGsng=
+
+Name: res/drawable-xhdpi/messenger_bubble_large_white.png
+SHA1-Digest: vQ0YmprJhiiYqlhm28rbXZgUOpw=
+
+Name: assets/data/text/shirtnumber_3_00.png
+SHA1-Digest: Z9FPIEbEO10DaL4tv+5/+4m2Ca8=
+
+Name: assets/data/game/achievementids.xml
+SHA1-Digest: 2Bucbd3g5uOPWC4UBowlabTqDg4=
+
+Name: res/drawable-hdpi/com_facebook_tooltip_black_topnub.png
+SHA1-Digest: 9OR68UmIYlhlkWt56QGdFVj0nR0=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: fX7/75QQIBFfw7pVp70ucqf5U5s=
+
+Name: assets/data/fe/ui/menuback18.png
+SHA1-Digest: jnWBLkd9n8XdAXSitBARB7Ngurs=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_disabled_light.9.png
+SHA1-Digest: VxYo54DpO8gLZZlccAgua4rEmUI=
+
+Name: res/drawable-xxhdpi/messenger_bubble_small_blue.png
+SHA1-Digest: 0X6PA82su8BHRW2qPqpnYiM3hXM=
+
+Name: res/layout/status_bar_ongoing_event_progress_bar.xml
+SHA1-Digest: gR3YGQ3M4MeTB6TbYeqJNN+NJt8=
+
+Name: res/drawable/splash_screen.png
+SHA1-Digest: 1FbJdEE2xEKsvyfNx/0//m+H/Qg=
+
+Name: assets/data/fe/ui/menuback4.png
+SHA1-Digest: C6LHM5VlbZwTey1bq5BILjEMYX4=
+
+Name: assets/data/hud/buttons_all.png
+SHA1-Digest: DiQXK5key+XQbtlB8xepKWYpQIM=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: V5CfWOf/lvOSOkeQ2tqNfB53eRI=
+
+Name: assets/data/audio/music0.m4a
+SHA1-Digest: ZBrACk6/UYAcO+9yTFhIZcKo2lo=
+
+Name: assets/data/fe/ui/menuback11.png
+SHA1-Digest: cpSwdAKuRJcWMEHQZby3CLjFYg8=
+
+Name: lib/armeabi-v7a/libDLS2.so
+SHA1-Digest: WRoippd3yOgtD3w76rdLAklbppw=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: oLYE8ZkspI8WUxqfg1VNeFJiRGY=
+
+Name: res/drawable/common_signin_btn_text_dark.xml
+SHA1-Digest: pPA2B4Beco2O1v38i+K2FVzgiN8=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_dark.9
+ .png
+SHA1-Digest: SXOyej7IXnI0/smJ5mymTBXKSQY=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: QpYPMLLJQuaZ/ZhVx0OtZ59cTMU=
+
+Name: assets/data/hud/replay/hudreplay.atlas
+SHA1-Digest: RcPvhyLrxSvlm/XNDaxoY9II9QI=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: BHTx0Rg5+HUdvzPo7QqQvIX16j4=
+
+Name: res/drawable-hdpi/ic_plusone_tall_off_client.png
+SHA1-Digest: SBKgHrI8+WG2Q5nUL763ra3tcmc=
+
+Name: assets/data/hud/hud_intro_player_yellow.png
+SHA1-Digest: eP2hrXLkdPpif5bYWK5t7W8ZJBA=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: LOnYRXZ7AMar5faphkv8oE5u2Ts=
+
+Name: assets/data/fe/dotted.png
+SHA1-Digest: EPkR1bYiu+AUZiq5HmCAbbXYfUU=
+
+Name: res/drawable-tvdpi/ic_plusone_small_off_client.png
+SHA1-Digest: oJkL4xtlN87pNrCzPgueqqvY2nU=
+
+Name: res/drawable-hdpi/com_facebook_tooltip_black_xout.png
+SHA1-Digest: gidiAUAJjJias1MRTuSOr4/2dvI=
+
+Name: assets/data/game/tournaments/tourn2.xml
+SHA1-Digest: LqcLRKXE0yBFD1jAtsCNLWQnT9U=
+
+Name: assets/data/fe/kitselect/kittemplate_mask_plain.png
+SHA1-Digest: Jy9h/2tIFUp66oPGrbtyMMR7Rf0=
+
+Name: assets/data/fe/stadiums/fe_milano.png
+SHA1-Digest: fRU3Yx21SOqqh2qNpAEzDTfe6LE=
+
+Name: res/drawable-xxhdpi/ic_plusone_medium_off_client.png
+SHA1-Digest: /7bw14nZmssFy3hqySiiFfoRLtE=
+
+Name: assets/data/game/players.dat
+SHA1-Digest: +zws+IvzBFpHasKotxSouAmlhws=
+
+Name: assets/data/text/shirtnumber_1.fnt
+SHA1-Digest: yebrTTN9jg9j1hep9iVr+GOIJSw=
+
+Name: assets/data/fe/ui/exported_f7fa6b4d_00.png
+SHA1-Digest: iFm0zLFkKHTGBZEZ7EhKslLBdFU=
+
+Name: assets/data/hud/line up star.png
+SHA1-Digest: AiLUZhsdf1cpDQUw5vmxxDBskNk=
+
+Name: assets/data/fe/trophies/trophy_southamericanleague.png
+SHA1-Digest: ImNyx2So2qBiAKB8e2XxV5QU3/o=
+
+Name: res/drawable-mdpi/com_facebook_button_send_icon.png
+SHA1-Digest: R5kOBI5lKCPVcxCeiBi49N367Hk=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: 78TcJz6spW0Xj1uhqYp51sJ+ZW4=
+
+Name: res/drawable/com_facebook_button_background.xml
+SHA1-Digest: zyW5t3BudDOtlK7yB44QWNlwkiU=
+
+Name: assets/data/hud/hud.atlas
+SHA1-Digest: PxCmF+cCFod87xlPloBPJ+UW2Do=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: CXX2E5tGOviUvDKEMiyU/8zIzI8=
+
+Name: res/drawable/com_facebook_button_like_background.xml
+SHA1-Digest: 1ogsrjuPyhkBzcNLiKVjzhS7Hko=
+
+Name: assets/data/fe/dreamteam/silver coin.png
+SHA1-Digest: SAXHNHz3+Vu1SgJ4HBPmXKdFbEc=
+
+Name: res/drawable-mdpi/com_facebook_tooltip_blue_background.9.png
+SHA1-Digest: catelxgP4Vurpy+V7+L3PNxSwKk=
+
+Name: assets/data/0android/dls_config.dat
+SHA1-Digest: L1vnuU1AJYkGVGrNwtm1caRBI7A=
+
+Name: res/drawable-hdpi/messenger_button_send_round_shadow.png
+SHA1-Digest: EW7V9t/diIgTNKUYtVYlmxkQo6c=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: cyGNdaeXN9e7TByKUZATdF174b0=
+
+Name: res/drawable-xxxhdpi/com_facebook_button_like_pressed.png
+SHA1-Digest: kfFHLC5nMeoEjXEAll/73jL1YIo=
+
+Name: res/drawable-xhdpi/com_facebook_tooltip_black_bottomnub.png
+SHA1-Digest: KlhlPq9cEDac9rtf0YM03Bb5OUU=
+
+Name: res/drawable-xxhdpi/ic_plusone_tall_off_client.png
+SHA1-Digest: Zpm+uanjIZounXjdWPevociI0a8=
+
+Name: assets/data/fe/ui/menuback5.png
+SHA1-Digest: 4t1UsUOGzH0LxrXOrFlntCUM368=
+
+Name: assets/data/fx/star0.png
+SHA1-Digest: VWOiWlMcbWKVBcyIcNZP/Dk1ZWA=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_disabled_focus_light.9
+ .png
+SHA1-Digest: xKWFKQf1Pgik6Ufh9Ou2AI1x82Q=
+
+Name: assets/data/fe/ui/fe_table_up.png
+SHA1-Digest: 2SBexWKipKZywbsVRkiDi8rm/jo=
+
+Name: assets/data/fe/ui/menuback12.png
+SHA1-Digest: WbI5Xa4FWdi/cGAmoXfv+SWR/9U=
+
+Name: res/drawable-mdpi/common_signin_btn_text_disabled_focus_dark.9.p
+ ng
+SHA1-Digest: bO5g/+La159pxGxauPWouknkQSM=
+
+Name: assets/data/fe/kitselect/kittemplate_mask_hoops.png
+SHA1-Digest: ieFU7pzmoxHmfh5PomAC4LQEFQU=
+
+Name: assets/data/game/tournaments/tourn7.xml
+SHA1-Digest: HjRJfTynPLCaEYHAoB7l2TyqVwI=
+
+Name: res/drawable-xxhdpi/powered_by_google_light.png
+SHA1-Digest: i1ZTqep+pgKdIhB18Xwu3c7KrFI=
+
+Name: assets/data/shaders.xmat
+SHA1-Digest: A2jxsj0r1k//fD9UE61xAFYeSrA=
+
+Name: res/drawable-mdpi/com_facebook_tooltip_black_topnub.png
+SHA1-Digest: yY8/t0s+QXhpJiUSW/BkWQiYs6A=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: LqymU4pfjSPqB62EwhAc/4/RMH8=
+
+Name: res/drawable-xhdpi/powered_by_google_light.png
+SHA1-Digest: 1PCeD4X7eVLdr2+EB4poVTq1PZw=
+
+Name: res/drawable-xhdpi/powered_by_google_dark.png
+SHA1-Digest: psVwTFCoE8L/YbYPXiTtAelEWs8=
+
+Name: assets/data/game/teamplayerlinks.dat
+SHA1-Digest: MB4ut9VZPkO88BKDWNqGa6TntGA=
+
+Name: assets/data/fe/dreamteam/edit kit/exported_a2c382ff_00.tga
+SHA1-Digest: 3MBLsaEmAy7zOmdKDvtsNkqH9pI=
+
+Name: res/drawable-xxhdpi/powered_by_google_dark.png
+SHA1-Digest: gfHaH8EPI7tPXVeskcJGZH2tiRQ=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: pXneUrYdU8SrxK3mSdE1QjYafJw=
+
+Name: assets/data/hud/hud_playerstatsbox.png
+SHA1-Digest: oob8lRR/o/94oINRaz0LdBukXvQ=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: iYrEoFlRN9JnUYNnZaGgDox9B2s=
+
+Name: res/drawable-xhdpi/messenger_bubble_small_blue.png
+SHA1-Digest: hJP0D6AuFGzly3XLWgt+VI/j3po=
+
+Name: assets/data/fx/dash0.png
+SHA1-Digest: 286yjV4jEnWaMm0WPUNML6CzzKQ=
+
+Name: res/drawable-hdpi/common_ic_googleplayservices.png
+SHA1-Digest: VI4dX5B2Y48SEkB7kbHeKlBvZ4s=
+
+Name: assets/data/audio/music8.m4a
+SHA1-Digest: 4mXE3vchE4X/p9Htfo+U3sgw1ko=
+
+Name: res/drawable-hdpi/messenger_bubble_small_blue.png
+SHA1-Digest: dlt8dpKh7msXYds6qLQN5UM+SIA=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: QZQVORrrI4SY+UeN1/1Dw7lPzXg=
+
+Name: res/drawable-tvdpi/ic_plusone_standard_off_client.png
+SHA1-Digest: bCfalDf3dtwVG4mH7KjMYlR/m8c=
+
+Name: res/drawable-mdpi/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: ByiOauEkjNwB7SImgL9u/CrPWKs=
+
+Name: res/drawable-hdpi/ic_plusone_small_off_client.png
+SHA1-Digest: zYEVoFXucmJpZuzXxsGneYWIlNU=
+
+Name: res/layout/safe_mode_confirm.xml
+SHA1-Digest: 8tsO0mu2y2bZNhCdMeZfBOoZ8iQ=
+
+Name: assets/data/fe/kitselect/kittemplate_mask_hband.png
+SHA1-Digest: COBUpVehh/ZYYHBp11lAD7QFQ68=
+
+Name: assets/data/fe/trophies/trophy_internationalcup.png
+SHA1-Digest: zUlNYGBNW3v+AMHit8STgw1xrss=
+
+Name: res/drawable-xhdpi/messenger_bubble_large_blue.png
+SHA1-Digest: 9mTJ+uFJzZRySt1VXF1D/4v9fq4=
+
+Name: assets/data/fe/sideselect/away header.png
+SHA1-Digest: dnwdzgRUA1RvjyFaDWAVqgkNcjs=
+
+Name: res/drawable-xxhdpi/ic_plusone_standard_off_client.png
+SHA1-Digest: meTbFvJL0s3oA4sDj2GzpobVb3Q=
+
+Name: res/raw/gtm_analytics
+SHA1-Digest: z4lph6xlv9ztpVWW3QM9h7QjqS0=
+
+Name: assets/data/fx/cash.png
+SHA1-Digest: bH0LkXXr21sJ1fim4Z5doLLo0Nc=
+
+Name: assets/data/fe/ui/arrow_left.png
+SHA1-Digest: cMMgqocWN9DoEx23PI0Yrog4nMA=
+
+Name: res/drawable-mdpi/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: Yud+v4/MhPsZm/BTsZVIeqqye2o=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_disabled_focus_dark.9.
+ png
+SHA1-Digest: guCYmdhfDLUURq65iF8G0INx3Zc=
+
+Name: assets/data/fe/ui/menuback2.png
+SHA1-Digest: 5eFIWPNiVJ73VYhK46iNoksRwGA=
+
+Name: res/drawable-mdpi/common_signin_btn_text_disabled_focus_light.9.
+ png
+SHA1-Digest: bO5g/+La159pxGxauPWouknkQSM=
+
+Name: assets/data/fx/credit.png
+SHA1-Digest: lg6kGt/Ud/UZYvLNH3WeHcVWNxs=
+
+Name: assets/data/fe/ui/menuback17.png
+SHA1-Digest: c61/JOXK/n78QB8Rqw5zO4MC+OM=
+
+Name: assets/data/fe/table/basic_grid_cell.png
+SHA1-Digest: b02HDljkKq5WFZbYI6F0uuCVjb4=
+
+Name: assets/data/fe/dlc/1000tokens.png
+SHA1-Digest: VIcZiLp0mWiH3Xh3gUhl1rh5y+s=
+
+Name: res/drawable-hdpi/powered_by_google_light.png
+SHA1-Digest: 1p8HkYSQc6asTjUOCQeAiFfr8oU=
+
+Name: res/drawable-xhdpi/ic_plusone_tall_off_client.png
+SHA1-Digest: rRjIC9V51TgZe2Muk+QxNRxDB4k=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_disabled_light.9.png
+SHA1-Digest: oF+13HnsmAk7j7d8YWA6FrzOMEM=
+
+Name: assets/data/text/shirtnumber_0_00.png
+SHA1-Digest: XdVuaf/KFk8Ls/5uHJrYs4zk6Xg=
+
+Name: assets/data/text/shirtnumber_2_00.png
+SHA1-Digest: u0IzPp2n17vBMV941cWIZ6sku7o=
+
+Name: assets/data/game/staticnetverts.dat
+SHA1-Digest: H53FtHJYS2neNgF3/TchXuc97v8=
+
+Name: res/color/wallet_secondary_text_holo_dark.xml
+SHA1-Digest: r3BKMHrp2rRr/PQI9STtE3YQc40=
+
+Name: res/drawable-xhdpi/com_facebook_tooltip_blue_xout.png
+SHA1-Digest: WjFm0tp4nyOULhL2U3mNcNv66H0=
+
+Name: assets/data/fe/ui/fe_shirt.png
+SHA1-Digest: jJ+b0VVBKsjhW1UxGdbxiXkbsow=
+
+Name: assets/data/text/shirtnumber_2.fnt
+SHA1-Digest: zwWGEVpiLcPYinDwaagoNco+Kbw=
+
+Name: assets/data/audio/music5.m4a
+SHA1-Digest: 3MOpkGgxBVfiSNaqjymdXQyeViw=
+
+Name: res/drawable-xxxhdpi/dls_icon.png
+SHA1-Digest: HvuDTdlZCRLSgWIQjbVyri/HPR0=
+
+Name: res/drawable-xxhdpi/com_facebook_button_like_icon_selected.png
+SHA1-Digest: mnxrMQ9yHFqGXl0LDHAGGy0rfgQ=
+
+Name: assets/data/fe/ui/fe_background.png
+SHA1-Digest: TohRn4WhMPCbCAx2RkqpCf3DEiU=
+
+Name: assets/data/text/gamefont_01.png
+SHA1-Digest: Pvj0Tin8lMAvorBvZqQytwikLJE=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: oF+13HnsmAk7j7d8YWA6FrzOMEM=
+
+Name: res/drawable-xxhdpi/com_facebook_button_like_background_selected
+ .png
+SHA1-Digest: sblc8bTydfV/A8LTVHEPYWXKsAw=
+
+Name: assets/data/nis.pak
+SHA1-Digest: 8silS+Qdc03LwYTi832KVJzAsxg=
+
+Name: assets/data/fe/android_controls.png
+SHA1-Digest: l4eUMgE1MyzsLGtDUvr0wfAMKEA=
+
+Name: assets/data/fe/loading/intro_letter.png
+SHA1-Digest: Avde5orhH7gOM5gz5O/YI6Tot/4=
+
+Name: assets/data/fe/feats/fe_feat_bronze.png
+SHA1-Digest: zcBQGM2ID1jm611nrAM/IJ1LQe8=
+
+Name: assets/data/fe/feats/fe_feat_gold.png
+SHA1-Digest: jt15TcpUrX9mqlHaFQuNdv1kscE=
+
+Name: assets/data/game/tournaments/tourn6.xml
+SHA1-Digest: Ff7nCJUGMEjABRtEP1YAmBXpW/Y=
+
+Name: res/drawable-mdpi/com_facebook_tooltip_black_background.9.png
+SHA1-Digest: uxEQ5CeVdDLdVI/wV2UpqEvNpQ4=
+
+Name: assets/data/fe/dlc/100tokens.png
+SHA1-Digest: umnUXmz1D6ae/z8ziClxwRupeg0=
+
+Name: assets/data/fe/trophies/trophy_africanleague.png
+SHA1-Digest: uiEkTFaaZtHaoC035SfIDVSYm/o=
+
+Name: res/layout/messenger_button_send_white_small.xml
+SHA1-Digest: zIR4befsuHeg6y7l443DfxtWTpo=
+
+Name: assets/data/game/animdb.adb
+SHA1-Digest: u7nulq1Nf8OjduLVTzcOYNIx1yE=
+
+Name: assets/data/audio/se.bnk
+SHA1-Digest: iCRUrMs17BexQe4PKSDIqiFr6NY=
+
+Name: assets/data/fe/curve_64.png
+SHA1-Digest: 6Lm2xC44qQFPc757DUSsC7lrDRM=
+
+Name: assets/data/fe/misc/x2_games.png
+SHA1-Digest: 7saHtMcFvpFLJUlZZvxaigxnOXI=
+
+Name: assets/data/fe/ui/captainselect_baground.png
+SHA1-Digest: C2rv7Aq3eLw9EE/JvNwGmtGdujw=
+
+Name: res/drawable-hdpi/com_facebook_button_send_icon.png
+SHA1-Digest: 5JUy2D8AoVSiyMAFOLjvG5mlxrE=
+
+Name: res/drawable-hdpi/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: zRbHLmdKBevJSr+o02FaZQNfDEI=
+
+Name: assets/data/fe/teamselect/teamselect.atlas
+SHA1-Digest: tg6wBBw7brdZlkrfu8S3YuDbCRs=
+
+Name: res/drawable-hdpi/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: l0371EbzDdE1t8SSbQ8tUELjjBE=
+
+Name: assets/data/hud/hud_intro_player_green.png
+SHA1-Digest: iZYDgsSEFf1sIILoKPh+skQjt8M=
+
+Name: res/drawable-hdpi/com_facebook_button_icon.png
+SHA1-Digest: ++sOw/916EgdnS4iNxu5GVStnL8=
+
+Name: assets/data/hud/hud_intro_player_red.png
+SHA1-Digest: 285970cz4Yj6KfG8xavOz12lD6c=
+
+Name: res/drawable-hdpi/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: wFoXy8GCZNSWm92BM16CPnxfv4s=
+
+Name: assets/data/fe/keyboard/keyboard.atlas
+SHA1-Digest: R+m0fRLBj08AuHXiIUuBaii38WU=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: G6buKYJ4Qlb1Pvo2IC95/wODhKI=
+
+Name: res/drawable-hdpi/common_signin_btn_text_disabled_focus_light.9.
+ png
+SHA1-Digest: RhSKzVt62w+QYn/2cc6ZABP8U2g=
+
+Name: res/drawable-xxxhdpi/com_facebook_button_like_background_selecte
+ d.png
+SHA1-Digest: sblc8bTydfV/A8LTVHEPYWXKsAw=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: 4PBl0z3tj5j2O6AoZ5NjnM41uy4=
+
+Name: assets/data/audio/music6.m4a
+SHA1-Digest: KjNPcbOwSfPQSEk26U3wzxuLx7g=
+
+Name: res/drawable-xxhdpi/messenger_button_send_round_shadow.png
+SHA1-Digest: SYt9v5I6t4FWa0R+XJp60aTLTuQ=
+
+Name: res/drawable-xhdpi/com_facebook_button_send_icon.png
+SHA1-Digest: zJ4kEAhMar8Nl9oB8mVz3IKaFHU=
+
+Name: res/drawable-hdpi/dls_icon.png
+SHA1-Digest: 4WgKPDCGBI6d8oJ0rZW6Jc/ox8c=
+
+Name: res/drawable-mdpi/ic_plusone_small_off_client.png
+SHA1-Digest: 5whZWZwuRck5OpUfQtK68/nh9Ac=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_disabled_focus_dark.9.
+ png
+SHA1-Digest: xKWFKQf1Pgik6Ufh9Ou2AI1x82Q=
+
+Name: assets/data/fe/ui/fe_arrow_down.png
+SHA1-Digest: T/MGuhhPUTPL+TQBChifXnPrbZw=
+
+Name: res/drawable/messenger_button_blue_bg_round.xml
+SHA1-Digest: XWOOhK7PVRw7tU6Z9s42HRGXyyA=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_disabled_focus_dark.9.p
+ ng
+SHA1-Digest: YylM0C8EWQGZi3wMbFrcmIJlTKU=
+
+Name: assets/data/fe/teamselect/exported_bbaecf05_00.tga
+SHA1-Digest: exoycwgqQM3VuC0V80GROvaP/rA=
+
+Name: res/drawable/messenger_button_white_bg_selector.xml
+SHA1-Digest: 4ja2Dnioh1qO0ZuB7eh74ousuFg=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: 02LmsKBdlW1KM3T8AECzhzSpF7s=
+
+Name: res/drawable-mdpi/ic_plusone_standard_off_client.png
+SHA1-Digest: 5mRZ2sFLI0LRLV8zEdkzMhgnR9I=
+
+Name: assets/data/text/shirtnumber_3.fnt
+SHA1-Digest: /RHDp+MsUxTs6TFpm3Zm/bSayms=
+
+Name: assets/data/fe/ui/fe_table_middle.png
+SHA1-Digest: AiPnAPMR6OkTEPIGT2yNFWiRGL4=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: jsakiFImv3uDay8ojtPWMe2mN9c=
+
+Name: res/layout/com_facebook_tooltip_bubble.xml
+SHA1-Digest: fpv5p71AuONo9XxNpGJQ1DtHvjQ=
+
+Name: res/layout/messenger_button_send_blue_large.xml
+SHA1-Digest: FIfLOkLpBqpUMzHuGOz4razXSNU=
+
+Name: assets/data/game/tournaments/tourn5.xml
+SHA1-Digest: 1oJ4gbDzrfCTs5TyFDmdn7Yvo9o=
+
+Name: assets/data/text/gamefont_00.png
+SHA1-Digest: TCL4grlF9vx8T5B4H+hKFvJPLjM=
+
+Name: res/drawable-hdpi/notify_panel_notification_icon_bg.png
+SHA1-Digest: QkKvlylhRTpR1HxxoAZMe0tB4/Q=
+
+Name: assets/data/fe/ui/menuback3.png
+SHA1-Digest: 5hbCS+dZr2hbPF5+OoILfqfNfaE=
+
+Name: res/drawable-mdpi/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: ZEFoK9pKz3WZBs3/Spc72HkbGZU=
+
+Name: res/drawable-xhdpi/messenger_button_send_round_shadow.png
+SHA1-Digest: OgMWIfhbRlgad9ljLvLj3ic47yE=
+
+Name: assets/data/fe/stadiums/fe_madridr.png
+SHA1-Digest: xhwm4DtPGZJJZNZqNV/dQ105Ksw=
+
+Name: assets/data/fe/stadiums/fe_valencia.png
+SHA1-Digest: oOE1V0Ptmbx2dfrRzQTm0A3mglw=
+
+Name: assets/data/text/shirtnumber_1_00.png
+SHA1-Digest: WWQx7632xpD0LGyYB89tqlV86j4=
+
+Name: res/drawable-hdpi/com_facebook_tooltip_blue_background.9.png
+SHA1-Digest: sC70NtI1TOrQ25tTttVbTOvGpzY=
+
+Name: res/color/common_signin_btn_text_dark.xml
+SHA1-Digest: 5/QYDqmfdHh23qBYcvruUoVQvu4=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: wfOoKURR8pgVTlXpj8gmQNVDWbY=
+
+Name: assets/data/fe/ui/menuback10.png
+SHA1-Digest: WAe8WZgAIYYkn/qAL3Uv8I7QPIY=
+
+Name: res/drawable-mdpi/com_facebook_profile_picture_blank_portrait.pn
+ g
+SHA1-Digest: 9kGOeq/tVClWE7Lz9AgjtukRZnQ=
+
+Name: res/drawable-xxhdpi/messenger_bubble_large_blue.png
+SHA1-Digest: pNuN4N1e8WkZbMVW3IQiYv8oAy0=
+
+Name: assets/data/fe/dot.png
+SHA1-Digest: 4p5t46GHtcgijtnca1hVjxogThw=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: HhJ9z+DYpPFo3UaqItrN+RNUlbo=
+
+Name: assets/data/fe/ui/menuback19.png
+SHA1-Digest: J32tEtA1fQri38R50KrThqKHQBA=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: F8bPf6HX6pzlgTaMtYLM0Xx7C3I=
+
+Name: assets/data/fe/ui/ui.atlas
+SHA1-Digest: zKgcjRmc46A1o1WAKzcso5r/3RU=
+
+Name: assets/data/game/leaderboardids.xml
+SHA1-Digest: tRazRqwKw4Gerf9UdbQaCvKHHr4=
+
+Name: res/layout/com_facebook_activity_layout.xml
+SHA1-Digest: 1R8hiqN3Iu3oMiervK+32WB5wP4=
+
+Name: res/drawable-mdpi/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: qb2cuZBfQoTCUXVxSiQijF/jptY=
+
+Name: res/drawable-xhdpi/ic_plusone_medium_off_client.png
+SHA1-Digest: zeUJW+N1oH+oj9U7hL70+0TC4pk=
+
+Name: res/drawable-hdpi/ic_plusone_medium_off_client.png
+SHA1-Digest: iP8qRXkY+XNmRoVEr+A6b2fLfF4=
+
+Name: assets/data/fe/loading/weather_night_clear.png
+SHA1-Digest: vxy/78flazhgLXQLcu2slduzlUE=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: CPCAnvzwScZmgSh0Is7KfMsQc/E=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: wy2gI6JBcKql3vfGj5m7Xvu9y1M=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: Kot3BVTmny2Pj+Q13svU8DIZH/o=
+
+Name: res/drawable-xxhdpi/dls_icon.png
+SHA1-Digest: 73/gm3llAyqlT5f8rVEdBFiKlWY=
+
+Name: assets/data/fe/kitselect/kittemplate_mask_vband.png
+SHA1-Digest: 68cAJqVGLaXCKcE4mhgkskE+SpE=
+
+Name: assets/data/fe/sideselect/home header.png
+SHA1-Digest: SUxJjvN1iUchUfslf/pFMa/LrZg=
+
+Name: assets/data/fe/loading/fe_loading_bar.png
+SHA1-Digest: EDPrmhTQ99QbBgm8smi5GHxVeaE=
+
+Name: res/drawable-mdpi/com_facebook_button_icon.png
+SHA1-Digest: dXnEKr4KU5992xWhw0vc4vtFQF4=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_disabled_light.9.png
+SHA1-Digest: d61b6mlChnxVImu1TzKWQV9xNk0=
+
+Name: assets/data/fe/ui/menuback15.png
+SHA1-Digest: C/vQW+2PRKuQtFbkdiWNt3dVM5Y=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: p6BYRi7rkJkXlH3GWHNa5Uvxv5A=
+
+Name: assets/data/fe/feats/fe_bulletpoint.png
+SHA1-Digest: vGujpW0oIt0h+LjyRkSQzg6YZH4=
+
+Name: res/drawable-ldpi/dls_icon.png
+SHA1-Digest: rkpgvXLi6Vay1RNThPukY6l4zoY=
+
+Name: assets/data/fe/ui/thumbs.png
+SHA1-Digest: Nja6lj/9CpPQGNwiBixYxIzoP5Y=
+
+Name: AndroidManifest.xml
+SHA1-Digest: C9DxRyqnGeMJ8Zdk49d8RDz2tRA=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: 9o1/u8DTKmUFtJbWw07PWOC8+eE=
+
+Name: assets/data/fe/box_32.png
+SHA1-Digest: mReanFu0cMfQUl8QRCGL/MpbXq8=
+
+Name: assets/data/fe/kitselect/kittemplate_mask_sash.png
+SHA1-Digest: cLwfuEo+PY4CwTgwLWFF5wuEuk8=
+
+Name: res/drawable-xxhdpi/com_facebook_button_like_pressed.png
+SHA1-Digest: kfFHLC5nMeoEjXEAll/73jL1YIo=
+
+Name: res/drawable-xxxhdpi/com_facebook_button_like_icon_selected.png
+SHA1-Digest: mnxrMQ9yHFqGXl0LDHAGGy0rfgQ=
+
+Name: assets/data/game/tournaments/tourn4.xml
+SHA1-Digest: CKUG6WMYOX6V/1SZDBo3NilMbxc=
+
+Name: assets/data/fe/loading/weather_day_rain.png
+SHA1-Digest: YZopXLvy234/BpmXiyO22bcRDOk=
+
+Name: assets/data/anims/anims.dat
+SHA1-Digest: JIXc4Fu3MqHQctP1gXWjbIxDxl0=
+
+Name: res/drawable-xhdpi/dls_icon.png
+SHA1-Digest: U/a+nXzk7NLaNHncmI2qiuFqlAw=
+
+Name: assets/data/fe/ui/thumbs_hi.png
+SHA1-Digest: YoiD6OsCW6Y7SFE1PP7jr4vZfX8=
+
+Name: assets/data/fe/box_64.png
+SHA1-Digest: MAVLUN62GKRcj8g9XLQP3BQjz3A=
+
+Name: res/drawable-mdpi/notify_panel_notification_icon_bg.png
+SHA1-Digest: CbiOmu2xHaCO/6a1W1iVByfqK/A=
+
+Name: assets/data/fe/dreamteam/gold coin.png
+SHA1-Digest: CuBtkwYJe8zKnm6xYpUhJpFK1+0=
+
+Name: res/drawable-hdpi/common_signin_btn_text_disabled_focus_dark.9.p
+ ng
+SHA1-Digest: RhSKzVt62w+QYn/2cc6ZABP8U2g=
+
+Name: res/drawable-xxhdpi/com_facebook_button_send_icon.png
+SHA1-Digest: hL1jH2kJk5LPzyJ5nH0e37k6+f8=
+
+Name: assets/data/text/gamefont_03.png
+SHA1-Digest: QtK6tC4QzsvASOhV7IfRDlqiOCE=
+
+Name: res/drawable-mdpi/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: Sbkx7bYtTjipugYBYrWPsOTHxpc=
+
+Name: assets/data/fe/loading/weather_day_snow.png
+SHA1-Digest: nwFkOBXOqEDu0ve88ijJ+YvQh9U=
+
+Name: res/drawable-xhdpi/com_facebook_tooltip_blue_topnub.png
+SHA1-Digest: 8xf5T2QSgzy/NKnf0KaAztuK+8s=
+
+Name: assets/data/fe/ui/fe_table_down.png
+SHA1-Digest: wcuzkieMHSRoUc93cRlln3Ow8mM=
+
+Name: assets/data/fe/ui/menuback1.png
+SHA1-Digest: ugHV6z+nseeA27kqt8wUYK6lCSc=
+
+Name: assets/data/fe/dreamteam/bronze coin.png
+SHA1-Digest: BKoj6zWWu5eSMKU3DrdhobR/2VM=
+
+Name: assets/data/fe/ui/menuback16.png
+SHA1-Digest: b8n3AT/YRM61rHItRamBubwFTik=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_disabled_light.9.png
+SHA1-Digest: Kg64y21REkVRf7NvFXGxL2bKUhg=
+
+Name: assets/data/fe/ui/fe_sort_up.png
+SHA1-Digest: mgdBANJFTLEBzzQBB8D07i+9Jv8=
+
+Name: assets/data/fe/colourselector/colourselector.png
+SHA1-Digest: tPuIahJHluuTPJn/HCH7aGFOJ00=
+
+Name: assets/data/fe/trophies/trophy_usleague.png
+SHA1-Digest: c3xyLy2Zxn/1PW6WnVoJgEcdY7o=
+
+Name: assets/data/fe/kitselect/kittemplate_mask_sides.png
+SHA1-Digest: iPZPhFRzoOvL9vtndSOYkWePvsQ=
+
+Name: res/drawable-mdpi/common_signin_btn_text_disabled_light.9.png
+SHA1-Digest: zFWwRs1UzDvgfpDCd1RJAgLJ1r0=
+
+Name: assets/data/fe/feats/fe_feat_platinum.png
+SHA1-Digest: I9k2iHHkIKcxokxsyuEuoNeD/b0=
+
+Name: assets/memento.more
+SHA1-Digest: EV1JYiV8sC8D6llRi/bHkDPLy3w=
+
+Name: assets/data/fx/ticket.png
+SHA1-Digest: 2DxBaPa4ew/TNNV3MbD3K5jOjfk=
+
+Name: assets/data/audio/music4.m4a
+SHA1-Digest: NtS9yAAxgh48zYmWEB2upWOwoco=
+
+Name: res/drawable-hdpi/powered_by_google_dark.png
+SHA1-Digest: I/G/mu9XuPJTzwp/WdZLjQ6xTfg=
+
+Name: res/drawable-mdpi/com_facebook_close.png
+SHA1-Digest: 3ghe2qEAIfHDS2Vog44GyFmuhsA=
+
+Name: res/drawable-hdpi/common_full_open_on_phone.png
+SHA1-Digest: 1fvo1tQADa6Q6ztee4oAocfHrHo=
+
+Name: res/drawable-hdpi/com_facebook_tooltip_black_bottomnub.png
+SHA1-Digest: Yv03+LhA+UZt+z7csDqgVvySQdY=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: vgMfd96mLdxgPcirDPRQDqIcAvQ=
+
+Name: assets/data/fe/kitselect/kittemplate_mask_halves.png
+SHA1-Digest: OQ2keRwdsYX4g0ritBn3soHzPjA=
+
+Name: res/raw/mraid.js
+SHA1-Digest: 1ihS6X++niIDaGIbPUQOe9oIJtM=
+
+Name: assets/data/hud/exported_91c494ea_00.tga
+SHA1-Digest: nFIQ5ILtdKpNSedb5ClI1VJHl8g=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: bm8lFIzAavLtBungqQzY8U7+2cE=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: Maz4nEIPM8sf2EbwFqBLWBzpedY=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: FzDJD2iWEqwPmHqfNPIbbpVuxUs=
+
+Name: res/drawable-xhdpi/com_facebook_tooltip_black_xout.png
+SHA1-Digest: GRVPhQjnqMlZsnYF1YFKphQHJm0=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: Kg64y21REkVRf7NvFXGxL2bKUhg=
+
+Name: res/drawable-xxhdpi/com_facebook_button_like_background.png
+SHA1-Digest: wSYeozqoGXl3VPNgW9ONgZGNvdY=
+
+Name: res/drawable-hdpi/com_facebook_button_like_icon_selected.png
+SHA1-Digest: AI82AcgbBGuUm0saKN6cW1HPv+w=
+
+Name: res/drawable-xhdpi/ic_plusone_small_off_client.png
+SHA1-Digest: vBwm0ihe3tJu932F0b7IvAec1Ho=
+
+Name: res/drawable-hdpi/com_facebook_tooltip_blue_xout.png
+SHA1-Digest: TC+NkOcwahA1AJHprbLOuITSC8s=
+
+Name: res/drawable-mdpi/powered_by_google_light.png
+SHA1-Digest: ZTHLPZe63ATwVGAlXju4hnecsME=
+
+Name: res/layout/messenger_button_send_white_round.xml
+SHA1-Digest: 5BjV6lw7hbpBW8h8e016maXNYt8=
+
+Name: assets/data/audio/music3.m4a
+SHA1-Digest: czWMBTPiPoplNvZIID5J7c6X5LY=
+
+Name: res/drawable-hdpi/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: rROVMNDIBKu+45byCGwWiTvrun4=
+
+Name: res/layout/main.xml
+SHA1-Digest: EfawOl87FBMJnpAgu+3VNFwTefk=
+
+Name: res/drawable-xhdpi/com_facebook_tooltip_blue_bottomnub.png
+SHA1-Digest: mQ3CAtvuslifIzCG9WBbt2IEob8=
+
+Name: assets/data/fe/feats/fe_tick.png
+SHA1-Digest: V6rIqtuvpRRBSWw057s2PCVY4hs=
+
+Name: assets/data/game/tournaments/tourn3.xml
+SHA1-Digest: 1rCsQQB3n4wayXBSAkw49zFOUMg=
+
+Name: assets/data/fe/kitselect/kittemplate_mask_check.png
+SHA1-Digest: Sx0xJ3MYV0NrpyYOXb7fNZM7gvk=
+
+Name: res/drawable/com_facebook_button_send_background.xml
+SHA1-Digest: BWOB2ZpswCOjR6E1iUsG4V8PopM=
+
+Name: assets/data/text/gamefont_02.png
+SHA1-Digest: oRUDFKvb2lsDg93Wmw6Cuyeu3OY=
+
+Name: res/color/wallet_primary_text_holo_light.xml
+SHA1-Digest: p7aYw9RbgLL3i5t4ikWdqgl0pFY=
+
+Name: res/drawable-hdpi/com_facebook_close.png
+SHA1-Digest: APOib1/odAKIK8vQvQ7RZF7aOSE=
+
+Name: res/layout/safe_mode.xml
+SHA1-Digest: GxeqLltekETq+GA/0ZcUBOiqhIg=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_disabled_focus_light.9.
+ png
+SHA1-Digest: YylM0C8EWQGZi3wMbFrcmIJlTKU=
+
+Name: res/drawable-xhdpi/com_facebook_close.png
+SHA1-Digest: OGFKQ7QhUQCfytXd5dfPsaUil0w=
+
+Name: res/drawable-hdpi/common_signin_btn_text_disabled_light.9.png
+SHA1-Digest: l0371EbzDdE1t8SSbQ8tUELjjBE=
+
+Name: res/drawable-hdpi/com_facebook_tooltip_blue_bottomnub.png
+SHA1-Digest: CKHzLZgwqxRHlq7CjCoPJAt9oVI=
+
+Name: res/layout/messenger_button_send_white_large.xml
+SHA1-Digest: sYSNBGmjff3z61AG2Z2yp6doA6I=
+
+Name: assets/data/anims/animdb.adb
+SHA1-Digest: kcDS2ibRdwJca6h59/TJjec6jIE=
+
+Name: assets/data/fe/ui/fe_sort_down.png
+SHA1-Digest: eGlT7fIhS5d07FaaiCMy2wPWwtM=
+
+Name: res/drawable-mdpi/com_facebook_tooltip_black_bottomnub.png
+SHA1-Digest: he4dRICJIQSRqHSi4hNgp4sPlxg=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: +1DoyMznNUpsC/b6P+34wodpVXs=
+
+Name: assets/data/fe/star.bmp
+SHA1-Digest: cFiQiJLyHpCFz2IGmDlwt4E2tck=
+
+Name: assets/data/fe/loading/weather_night_snow.png
+SHA1-Digest: JZXOiVIbqP/6tocoa6BoAahgLK8=
+
+Name: res/drawable/messenger_button_white_bg_round.xml
+SHA1-Digest: 8Q0PeowTVYnuD+ke8SFMV39Uk2c=
+
+Name: res/drawable/messenger_button_blue_bg_selector.xml
+SHA1-Digest: iAym3Fqm3VQdXGtHmnUDkRWTkVE=
+
+Name: assets/data/fe/ui/fe_ui_titleshadow.png
+SHA1-Digest: rRxKkR6sROUfpj5pVkcG+xiymXk=
+
+Name: assets/data/hud/ingame_direction.png
+SHA1-Digest: i83OSI8Uu+HQ7anoLCO/L81Jh2o=
+
+Name: res/drawable-hdpi/com_facebook_tooltip_black_background.9.png
+SHA1-Digest: +DxTpyUKpT11iz68MG1Q0iB2EvA=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: X8KQ7oOkOcNPEDfiMGryuZi3fRU=
+
+Name: assets/data/fe/ui/menuback9.png
+SHA1-Digest: nHJB7328664V7P48Zdf/KvmZ/Q0=
+
+Name: res/drawable-tvdpi/ic_plusone_tall_off_client.png
+SHA1-Digest: 5DJcJTVQZ/5EfOcHn52XOrGisZk=
+
+Name: assets/data/fe/teammanagement/exported_b5f0c5b7_00.tga
+SHA1-Digest: G/H5tn6G+Ac3an9RywVKZAxgIt4=
+
+Name: assets/data/fe/sideselect/vs.png
+SHA1-Digest: 8m0Fl2RsYoNUP6tTg+3W8e4J1Rs=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: i0+ZDHiBO29XUZSz9CqihDODOUg=
+
+Name: assets/data/fe/stadiums/fe_stadium9.png
+SHA1-Digest: FLQGaDP1DV3jKx2Q4AKQ//lfUFQ=
+
+Name: res/drawable-xxxhdpi/com_facebook_button_like_icon.png
+SHA1-Digest: 0At6470qC58hwxjM8DdAf6DFTUM=
+
+Name: res/drawable-xhdpi/com_facebook_tooltip_blue_background.9.png
+SHA1-Digest: ewmojyQLbwcPjW/HwZL3ryTwxZQ=
+
+Name: res/drawable-mdpi/com_facebook_tooltip_blue_bottomnub.png
+SHA1-Digest: EQjyUui+aWxwq+rwMQeRNG8lJd0=
+
+Name: res/drawable-mdpi/messenger_bubble_large_blue.png
+SHA1-Digest: cCqQ+E8Oc4roWbYN8uFIvKWNqNU=
+
+Name: res/drawable-xhdpi/com_facebook_tooltip_black_topnub.png
+SHA1-Digest: bkx9QZs8aYlH6Bbt1aDDs/ZXWws=
+
+Name: assets/data/audio/music2.m4a
+SHA1-Digest: n4CZ+xezEGbH5xFjF0QKIhr11Oc=
+
+Name: res/drawable-xhdpi/com_facebook_button_icon.png
+SHA1-Digest: NGY0vczL+gmSadSmWZVch+0t7C0=
+
+Name: res/drawable-hdpi/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: tIuYafbt330Ib34PFlT0n/vuCIY=
+
+Name: res/drawable-mdpi/ic_plusone_medium_off_client.png
+SHA1-Digest: W063SlyrzTvVLq8T+B8TBmOdWCk=
+
+Name: assets/data/game/managers.dat
+SHA1-Digest: r3MI1FBfOL/wqL7oMXMOsePqB4A=
+
+Name: assets/data/fe/ui/menuback6.png
+SHA1-Digest: SwZOyCPvIwizoqd/SMRafmvJXi4=
+
+Name: assets/opera-fan
+SHA1-Digest: FwWugX3P9Y9iKQr2XYhZPDxSX9c=
+
+Name: assets/data/fe/loading/weather_night_rain.png
+SHA1-Digest: oCr0Rzs0OhQRp0tXFluEVTC5KLs=
+
+Name: assets/data/fe/ui/menuback13.png
+SHA1-Digest: AJEFsjkifdMLRA6tWZh+mZm37Vw=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: NtMWCSQ4d2rJGiPYXdtQtva5ELo=
+
+Name: assets/data/fe/loading/weather_day_clear.png
+SHA1-Digest: VGENJLaKaG8yR+yAIkU9D0Qr6aU=
+
+Name: res/drawable-mdpi/dls_icon.png
+SHA1-Digest: Bfz+0y34uLEAKv0kciS0bjP7kA8=
+
+Name: assets/data/fe/dls_logo.png
+SHA1-Digest: ABL9bc/ylx8czlkMQ1vSQKSeaE0=
+
+Name: res/drawable-mdpi/powered_by_google_dark.png
+SHA1-Digest: SYwxuihJgUaoyjHCQQvZHUzSvgw=
+
+Name: assets/data/text/ftscredits.xlc
+SHA1-Digest: 6ZziU5fGHtU+XPQjgY8wXkIvaoI=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_disabled_light.9.png
+SHA1-Digest: FzDJD2iWEqwPmHqfNPIbbpVuxUs=
+
+Name: res/drawable-hdpi/messenger_bubble_large_blue.png
+SHA1-Digest: +kUhWcAYgCTzo/QohKlJRh4u/lg=
+
+Name: assets/data/fe/table/highlighted_grid_cell.png
+SHA1-Digest: ltHOkuqrsdeT4VsPv+1mlX1HdTA=
+
+Name: res/drawable-xxhdpi/ic_plusone_small_off_client.png
+SHA1-Digest: hMf/FoHQ1ncswR3Ha2oj+rtb3FA=
+
+Name: res/drawable-mdpi/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: +S7K5XreSnOZZzgl+tY/ws+WB98=
+
+Name: assets/data/fx/star1.png
+SHA1-Digest: 7Cs/ft/zYKJvi92peoSlEkNqyh4=
+
+Name: res/drawable-tvdpi/ic_plusone_medium_off_client.png
+SHA1-Digest: JCchW37ep9rQAe5fTxcGI2f2woY=
+
+Name: res/drawable/com_facebook_button_login_silver_background.xml
+SHA1-Digest: wnOt5WRfmZQ3ImkqSrOzLNVcp3k=
+
+Name: res/layout/splash_screen.xml
+SHA1-Digest: VreWmQsYqR3CAY+1hLbrGPqdIlg=
+
+Name: res/drawable-hdpi/ic_plusone_standard_off_client.png
+SHA1-Digest: SfY+3G0ROn26yscNfyqLheYZY3o=
+
+Name: res/drawable-xhdpi/messenger_bubble_small_white.png
+SHA1-Digest: ebt5KZsyVvmjR3vJxHxmhpJgvnE=
+
+Name: assets/data/fe/stadiums/fe_stadium8.png
+SHA1-Digest: 1qyWYuaxH793qBkVUlDoWhECcBE=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_disabled_focus_light.9
+ .png
+SHA1-Digest: guCYmdhfDLUURq65iF8G0INx3Zc=
+
+Name: res/layout/messenger_button_send_blue_small.xml
+SHA1-Digest: sHIR3j03TVRLT16+ur2+pZd21o4=
+
+Name: assets/data/fe/stadiums/fe_torino.png
+SHA1-Digest: 2FfnTL2Bp+ytomymBPdDyPBCdpA=
+
+Name: res/drawable/common_signin_btn_text_light.xml
+SHA1-Digest: oTvTDD+ShOoONS4SpQ1UqCZ35z4=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: Fwd86vNvpMnTL2d2bAaehuQ4m50=
+
+Name: res/drawable-xxhdpi/messenger_bubble_large_white.png
+SHA1-Digest: SElsOnWMeHzY0am0ees3XrgEy4M=
+
+Name: res/drawable-xxxhdpi/com_facebook_button_like_background.png
+SHA1-Digest: wSYeozqoGXl3VPNgW9ONgZGNvdY=
+
+Name: assets/data/game/teams.dat
+SHA1-Digest: RNR4d8QTj8a57dTzu833guQ5V5Y=
+
+Name: res/drawable-mdpi/com_facebook_tooltip_blue_xout.png
+SHA1-Digest: VpSoMW/6yLkYe65/CO1eWu25/vg=
+
+Name: assets/data/fe/stadiums/fe_first_touch_games.png
+SHA1-Digest: b3D9KxsgaDXtl61RaKDD2rkEBDU=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: h6PJh4uqjYL/ErVn+emzUyPQMrA=
+
+Name: assets/data/fe/ui/menuback14.png
+SHA1-Digest: WKNrfO9jO3PXHRvVLck4z83RGBI=
+
+Name: assets/data/fe/ui/fe_ui_footer.png
+SHA1-Digest: ThFv15FRBDfblkl0ROUTsM+bBrQ=
+
+Name: assets/data/fe/ui/menuback8.png
+SHA1-Digest: RmLvWBRYfzmJRFQGXTbUSKkXIPw=
+
+Name: assets/data/fe/teammanagement/exported_7e187b51_00.tga
+SHA1-Digest: DrrHDWxWESruNXQTKTRubG5m1kQ=
+
+Name: res/drawable-mdpi/com_facebook_button_like_icon_selected.png
+SHA1-Digest: kUmUey5QabQ95BgU5hktOm3ZlMs=
+
+Name: res/drawable-hdpi/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: 9tEorehzp1zOLC1EVh0jqAsRcdg=
+
+Name: res/drawable-mdpi/com_facebook_profile_picture_blank_square.png
+SHA1-Digest: ii3g4mqHjQXtghNZE1cibJA1Jbs=
+
+Name: assets/data/game/tournaments/tourn9.xml
+SHA1-Digest: aB+NhV7Ef9ofX3rtHwFk23eUFuo=
+
+Name: assets/data/text/ftslang.xlc
+SHA1-Digest: 3pdXDqkPp2K4rF2me1kw7OWwI+k=
+
+Name: res/drawable-hdpi/messenger_bubble_small_white.png
+SHA1-Digest: svzhipssL8eSFN51GCmxa+Ns6pM=
+
+Name: assets/data/fe/highlight_32.png
+SHA1-Digest: iGQrhrxnLKWERDXB2y8eCpWGJsM=
+
+Name: assets/data/game/tournaments/tourn0.xml
+SHA1-Digest: 5ywqLkGhBLyZEPICTLe8lh+UeE4=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: VxYo54DpO8gLZZlccAgua4rEmUI=
+
+Name: assets/data/fe/colourselector/colourselector_cursor.png
+SHA1-Digest: s/XzG2lH8DBtGAokBgB748JLL8c=
+
+Name: assets/data/game/intercept.dat
+SHA1-Digest: 7ezV6keIaaTv41sktcbB87rpOl4=
+
+Name: res/layout/com_facebook_login_fragment.xml
+SHA1-Digest: 6qu0uXDoTyPlQ56LgcuzxuROkqo=
+
+Name: res/drawable-xxhdpi/com_facebook_button_like_icon.png
+SHA1-Digest: 0At6470qC58hwxjM8DdAf6DFTUM=
+
+Name: res/drawable/common_signin_btn_icon_dark.xml
+SHA1-Digest: vOMbdttUWpKazsphYO5lcBtO3bE=
+
+Name: res/drawable-mdpi/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: zFWwRs1UzDvgfpDCd1RJAgLJ1r0=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_disabled_focus_light.
+ 9.png
+SHA1-Digest: sF0dQxVNmJMKvqTxKlJbebwL1s8=
+
+Name: res/drawable-xhdpi/com_facebook_tooltip_black_background.9.png
+SHA1-Digest: 2xgU0++/KN5qhzcL/Lhz8p8cTNU=
+
+Name: assets/data/fe/dreamteam/platinum coin.png
+SHA1-Digest: /Ib5fkdE/ycWMcvMF01pXvPIJgA=
+
+Name: assets/data/fe/ui/menuback7.png
+SHA1-Digest: eNn3eHyBD2RAmVtsABTGsZwB/mU=
+
+Name: res/drawable-hdpi/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: st4NJ2IOsfBHP5STAwEqvYTsB4I=
+
+Name: res/drawable-mdpi/messenger_bubble_large_white.png
+SHA1-Digest: UH+ZFSGjMpKY4r/vO5qsG83rjTw=
+
+Name: res/drawable-xxhdpi/messenger_bubble_small_white.png
+SHA1-Digest: tpXEEEeK+jNQcbuBuUzRVMQIju4=
+
+Name: assets/data/fe/keyboard/exported_16486fdd_00.tga
+SHA1-Digest: DscwHQkmTMZfhIvbqeOBk8MzGXY=
+
+Name: assets/data/fx/dot1.png
+SHA1-Digest: 4p5t46GHtcgijtnca1hVjxogThw=
+
+Name: res/drawable-mdpi/messenger_bubble_small_white.png
+SHA1-Digest: ++uO3t+ZATRRGLqr/T+nQip6LGE=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: d61b6mlChnxVImu1TzKWQV9xNk0=
+
+Name: assets/data/fe/stadiums/fe_lisbon.png
+SHA1-Digest: vugAO4Pzm/CKdtvo/60ofYgMkbY=
+
+Name: assets/data/fe/teammanagement/roles.atlas
+SHA1-Digest: Sc6Dvn57pqbx5dV+jODSUAXva3A=
+
+Name: assets/data/text/ftsteamnames.xlc
+SHA1-Digest: /4EuavFkLOlGd8nLBvSQD1N73BM=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_disabled_focus_dark.9
+ .png
+SHA1-Digest: sF0dQxVNmJMKvqTxKlJbebwL1s8=
+
+Name: assets/data/fe/feats/fe_cross.png
+SHA1-Digest: RFqdd1M6j7xzu+JMmZftwpXK1tY=
+
+Name: assets/data/fx/confetti.png
+SHA1-Digest: XP6vvrJxqb4CkxTaw+oLy6cfuJE=
+
+Name: res/drawable-xxhdpi/com_facebook_button_icon.png
+SHA1-Digest: p7bFOF7rB5pnl5sbpyygQrLzHSU=
+
+Name: assets/data/audio/music1.m4a
+SHA1-Digest: VtZ5Rlod7HLZize1szkcWC8XLNE=
+
+Name: assets/data/hud/hud_intro_player_blue.png
+SHA1-Digest: EG+dSf++r+kxeYUOBqgXH68Q9Ow=
+
+Name: assets/data/text/gamefont.fnt
+SHA1-Digest: hZNVHQkyXXlwW32lYLDhnGNuviE=
+
+Name: classes.dex
+SHA1-Digest: WhT1vzJ/t7QSikqzBOFcM9LHNHo=
+
